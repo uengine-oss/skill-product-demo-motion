@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Demo Motion"
+  short_description: "화면 녹화를 세리프 자막과 부드러운 카메라 효과의 무음 소개 영상으로 제작"
+  default_prompt: "$product-demo-motion으로 이 화면 녹화에서 핵심 기능을 골라 밝은 톤의 짧은 제품 소개 영상을 만들어줘."
